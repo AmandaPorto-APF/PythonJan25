@@ -8,18 +8,18 @@ idade = int(input('Entre com sua idade: '))
 #     print(f'Pode beber a vontade')
 
 #%% AND
-# if idade <18 or idade >60:
-#     print(f'voce nao esta autorizado a beber')
+# if idade <18 or idade >60: # if 18<= idade <=:
+#     print(f'voce nao esta autorizado a beber') 
 
 # else:
 #     print(f'Voce e maio de idade e pode beber a vontade')
 
-#%% ELIF
-if idade <18:
-    print(f'voce nao esta autorizado a beber')
+# #%% ELIF
+# if idade <18:
+#     print(f'voce nao esta autorizado a beber')
 
-elif idade >90:
-    print(f'va pro bingo tomar sopa')
+# elif idade >90:
+#     print(f'va pro bingo tomar sopa')
 
-else:
-    print(f'Voce e maio de idade e pode beber a vontade')
+# else:
+#     print(f'Voce e maio de idade e pode beber a vontade')

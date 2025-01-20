@@ -37,22 +37,24 @@
 #%%
 
 #receita - mostrar um item por vez
-print(f'Receita \n Ingredientes:')
-input()
-print(f'2 xícaras de farinha de trigo')
-input()
-print(f'1 xícara de açúcar')
-input()
-print(f'1/2 xícara de cacau em pó')
-input()
-print(f'1 colher de chá de fermento em pó')
-input()
-print(f'1 colher de chá de bicarbonato de sódio')
-input()
-print(f'Modo de Fazer:')
-input()
-print('''Pré-aqueça o forno a 180°C. Unte uma forma de bolo com manteiga e farinha, ou forre-a com papel manteiga. 
-    \n Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.
-    \n Em outra tigela, bata os ovos levemente. Adicione o leite, o óleo vegetal e o extrato de baunilha. Misture bem.
-    \n Despeje os ingredientes líquidos na mistura de ingredientes secos e mexa até que tudo esteja bem combinado.
-    \n Adicione a água fervente à massa e misture até que a massa fique homogênea. A massa ficará líquida, mas é normal.''')
+###EDITAR TODAS AS LINHAS AO MESMO TEMPO - ctrl+Alt+i = seleciona tudo / Shift+home = inicio da linha / abre parentes, aspas, 
+                                            # home print, end enter, input()
+# print(f'Receita de Bolo de Chocolate\n Ingredientes:')
+# input()
+# print(f'2 xícaras de farinha de trigo')
+# input()
+# print(f'1 xícara de açúcar')
+# input()
+# print(f'1/2 xícara de cacau em pó')
+# input()
+# print(f'1 colher de chá de fermento em pó')
+# input()
+# print(f'1 colher de chá de bicarbonato de sódio')
+# input()
+# print(f'Modo de Fazer:')
+# input()
+# print('''Pré-aqueça o forno a 180°C. Unte uma forma de bolo com manteiga e farinha, ou forre-a com papel manteiga. 
+#     \n Em uma tigela grande, peneire a farinha de trigo, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal. Misture bem.
+#     \n Em outra tigela, bata os ovos levemente. Adicione o leite, o óleo vegetal e o extrato de baunilha. Misture bem.
+#     \n Despeje os ingredientes líquidos na mistura de ingredientes secos e mexa até que tudo esteja bem combinado.
+#     \n Adicione a água fervente à massa e misture até que a massa fique homogênea. A massa ficará líquida, mas é normal.''')

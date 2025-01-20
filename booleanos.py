@@ -33,3 +33,5 @@ else:
     else:
         print(input(f'Qual categoria? {cat} ').upper())
         print(f'Parabens, voce e bixao!')
+
+        #com categoria X voce so pode dirigir N (if!!!)
